@@ -1,0 +1,14 @@
+.about {
+    width: 40%; 
+    margin: 0 auto; 
+    text-align: left;
+    padding: 20px;
+  }
+ 
+  .about-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  

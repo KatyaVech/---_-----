@@ -1,0 +1,44 @@
+{
+    "music": [
+      {
+        "id": 1,
+        "title": "Seven nation army",
+        "artist": "The White Stripes",
+        "genre": "Rock",
+        "image": "./images/Seven nation army.jpeg",
+        "releaseYear": 2009
+      },
+      {
+        "id": 2,
+        "title": "Sweetener",
+        "artist": "Ariana Grande",
+        "genre": "Pop",
+        "image": "./images/ariana grande.jpg",
+        "releaseYear": 2018
+      },
+      {
+        "id": 3,
+        "title": "LOSE U TO LOVE ME",
+        "artist": "Selena Gomez",
+        "genre": "Pop",
+        "image": "./images/selena gomez.jpg",
+        "releaseYear": 2020
+      },
+      {
+        "id": 4,
+        "title": "Love Yourself",
+        "artist": "BTS",
+        "genre": "K-pop",
+        "image": "./images/bts.jpg",
+        "releaseYear": 2017
+      },
+      {
+        "id": 5,
+        "title": "I WANNA BE YOUR SLAVE",
+        "artist": "Maneskin",
+        "genre": "Hard rock",
+        "image": "./images/maneskin.jpeg",
+        "releaseYear": 2021
+      }
+    ]
+  }

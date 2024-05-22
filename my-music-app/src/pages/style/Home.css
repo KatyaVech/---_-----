@@ -1,0 +1,43 @@
+.center-text {
+  margin-left: 141px;
+}
+.music-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.music-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 200px;
+  text-align: center;
+}
+
+.music-card img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.add-music-button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.add-music-button:hover {
+  background-color: #218838;
+}
